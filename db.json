@@ -1,0 +1,120 @@
+{
+  "chats": [
+    {
+      "id": 1,
+      "name": "Roma",
+      "photo": "./images/man.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nikita",
+      "photo": "./images/nikita.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Veronika",
+      "photo": "./images/veronika.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Юля",
+      "photo": "./images/julia.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dima",
+      "photo": "./images/man.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Igor",
+      "photo": "./images/man.jpg"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "body": "text",
+      "date": "01.01.01",
+      "time": "18:30",
+      "fullDate": 1650824552727,
+      "direction": "to_me",
+      "chatId": 1
+    },
+    {
+      "id": 2,
+      "body": "text 123",
+      "date": "01.01.01",
+      "time": "18:30",
+      "direction": "to_me",
+      "chatId": 1
+    },
+    {
+      "id": 3,
+      "body": "Hi",
+      "date": "01.01.01",
+      "time": "18:30",
+      "direction": "from_me",
+      "chatId": 3
+    },
+    {
+      "id": 4,
+      "body": "Love you",
+      "date": "01.01.01",
+      "time": "18:30",
+      "direction": "to_me",
+      "chatId": 3
+    },
+    {
+      "id": 10,
+      "body": "Привет",
+      "date": "01.01.01",
+      "time": "18:30",
+      "direction": "to_me",
+      "chatId": 2
+    },
+    {
+      "body": "Привет",
+      "date": "4/24/22",
+      "time": "3:34 PM",
+      "direction": "from_me",
+      "chatId": 2,
+      "id": 14
+    },
+    {
+      "body": "Hey yoy",
+      "date": "4/24/22",
+      "time": "8:56 PM",
+      "direction": "from_me",
+      "chatId": 4,
+      "id": 23
+    },
+    {
+      "body": "Hola",
+      "date": "4/25/22",
+      "time": "7:40 PM",
+      "fullDate": 1650904800864,
+      "direction": "from_me",
+      "chatId": 4,
+      "id": 28
+    },
+    {
+      "body": "Hello",
+      "date": "4/26/22",
+      "time": "10:17 PM",
+      "fullDate": 1651000670122,
+      "direction": "from_me",
+      "chatId": 6,
+      "id": 36
+    },
+    {
+      "body": "Santa actually gives everyone presents. It's just that Chuck Norris pounds some of them into coal.",
+      "date": "4/26/22",
+      "time": "10:18 PM",
+      "fullDate": 1651000680719,
+      "direction": "to_me",
+      "chatId": 6,
+      "id": 37
+    }
+  ]
+}

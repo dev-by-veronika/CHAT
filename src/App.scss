@@ -1,0 +1,12 @@
+.app {
+  font-size: 18px;
+  height: 100vh;
+  display: flex;
+  overflow: hidden;
+
+  &__sidebar {
+    width: 30%;
+    border-right: 1px solid #adadad;
+    min-width: 320px;
+  }
+}
